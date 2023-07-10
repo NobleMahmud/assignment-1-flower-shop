@@ -117,6 +117,7 @@ body {
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
     margin: 0 auto;
+    margin-top: 50px;
 }
 
 .service-container {
@@ -152,7 +153,7 @@ body {
     padding: 80px 10px 0px 30px;
 }
 .flower-3{
-    padding: 0px 0px 100px 50px;
+    padding: 0px 0px 0px 50px;
 }
 .caption-1{
     margin: 0px 0px 0px 150px;
