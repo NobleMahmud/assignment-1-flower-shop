@@ -230,7 +230,7 @@ body {
     width: 1440px;
     height: 450px;
     border-radius: 8px;
-    background-image: url('/images/rectangle\ 9.png');
+    background-image: url('../images/rectangle\ 9.png');
     background-size: cover;
     background-position: center;
     margin: 0 auto;
